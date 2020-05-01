@@ -7,13 +7,17 @@ body{
     background-color: rgb(201, 180, 219);
 
 }
+img.lado{
+    float: right;
+    }
+    
 
 main{
     background-color: white;
-    width: 500px;
+    width: 800px;
     margin:auto;
     padding: 10px;
-    box-shadow: 3px 3 px 5 px rgb(2, 0, 0);
+    box-shadow: 10px 10px 15px rgb(2, 0, 0);
 
 
 }
